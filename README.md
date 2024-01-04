@@ -16,6 +16,7 @@ In this project, we employed advanced data mining techniques to address job mark
 
 1. **Data Collection:**
    - A comprehensive dataset of job postings was gathered from Kaggle, containing detailed information such as job titles, locations, department, salary ranges, company profiles, and benefits.
+   - Link to the dataset [data](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
 
 2. **Data Preprocessing:**
    - Data cleaning was performed, handling missing values, outliers, and inconsistencies in job postings data.
